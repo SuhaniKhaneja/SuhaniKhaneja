@@ -1,57 +1,128 @@
 # Hi, I'm Suhani Khaneja 👋
-### CSE Student · AI/ML Builder · Making tech that actually does something
+
+### CSE Student · AI/ML Engineer · Building intelligent systems with real-world impact
 
 ---
 
-## 🙋‍♀️ About me
+## 🙋‍♀️ About Me
 
-I'm a Computer Science Engineering student focused on building AI systems that solve real problems — not just finish assignments. I work across the full stack: data preparation, model training, API development, and deployment.
+I'm a Computer Science Engineering student focused on building practical AI systems that solve real problems — beyond coursework and tutorials. I work across the full AI development pipeline: data preprocessing, model training, backend APIs, evaluation systems, and deployment.
 
-Currently exploring **LLM pipelines**, **agentic AI workflows**, and **system design**. I care about the "why" behind every project — who does it help, what problem does it fix?
+My current interests include:
 
----
+* LLM applications and evaluation systems
+* Conversational AI and memory architectures
+* Deep learning and computer vision
+* Backend systems and scalable AI infrastructure
 
-## 🚀 What I've built
-
-- **LLM Chatbot with Memory** — context-aware multi-turn chatbot with session-based memory, served via FastAPI REST API · *BlenderBot · HuggingFace · PyTorch*
-- **Speech Emotion Recognition** — deep learning model classifying emotions from 2,800+ audio samples using MFCC + PyTorch · *Librosa · RAVDESS dataset*
-- **Fake News Detector** — NLP classifier distinguishing real vs fake news articles · *Python · Scikit-learn*
-- **MediBridge** — real-time emergency response system connecting patients to hospitals · *System Design · Real-time*
+I enjoy understanding not just how systems work, but why they matter and who they help.
 
 ---
 
-## 🛠 Tech stack
+## 🚀 Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+### 🔹 [LLM Evaluation Platform](https://github.com/SuhaniKhaneja/LLM-EVAL-PLATFORM)
 
----
+Full-stack automated evaluation system for benchmarking LLM responses across multiple quality metrics including ROUGE-1 similarity, toxicity, response length, and composite scoring.
 
-## 📊 GitHub stats
+**Highlights**
 
-![Suhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuhaniKhaneja&show_icons=true&hide_border=true&count_private=true&theme=default)
+* FastAPI backend with asynchronous request handling
+* Streamlit dashboard for visualization and benchmarking
+* SQLite persistence using SQLAlchemy ORM
+* Multi-model comparative evaluation pipeline
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaniKhaneja&layout=compact&hide_border=true&theme=default)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SuhaniKhaneja&hide_border=true)](https://git.io/streak-stats)
+**Tech Stack**
+`Python · FastAPI · PyTorch · Streamlit · SQLAlchemy · ROUGE · Detoxify`
 
 ---
 
-## 📌 Currently
+### 🔹 [DeepGuard-AI — Deepfake Detection](https://github.com/SuhaniKhaneja/DeepGuard-AI)
 
-- 🔭 Building with LLMs and exploring agentic AI systems
-- 🌱 Deepening knowledge in system design and backend architecture
-- 💼 Open to internship and collaboration opportunities in AI/ML
+Deep learning-based deepfake detection system benchmarking multiple architectures on 10,000+ labeled video frames using transfer learning.
+
+**Highlights**
+
+* Compared Custom CNN, DenseNet121, and EfficientNetB0
+* Achieved ~93% accuracy using DenseNet121
+* Real-time prediction interface using Streamlit
+* Extensive preprocessing and frame extraction pipeline
+
+**Tech Stack**
+`Python · TensorFlow · PyTorch · OpenCV · Streamlit`
+
+---
+
+### 🔹 [LLM Chatbot with Memory](https://github.com/SuhaniKhaneja/LLM-Powered-Conversational-Chatbot-with-Memory)
+
+Context-aware conversational chatbot supporting multi-turn interactions with session-based memory.
+
+**Highlights**
+
+* Stateful conversation management
+* FastAPI REST API integration
+* Transformer-based conversational pipeline
+* Memory-aware response generation
+
+**Tech Stack**
+`BlenderBot · HuggingFace · PyTorch · FastAPI`
+
+---
+
+### 🔹 Speech Emotion Recognition
+
+Deep learning model for classifying human emotions from speech using MFCC feature extraction on 2,800+ audio samples.
+
+**Tech Stack**
+`PyTorch · Librosa · NumPy · RAVDESS Dataset`
+
+---
+
+### 🔹 Fake News Detector
+
+NLP-based classification system for detecting fake versus genuine news articles using machine learning techniques.
+
+**Tech Stack**
+`Python · Scikit-learn · NLP`
+
+---
+
+### 🔹 MediBridge
+
+Conceptual real-time emergency response and hospital coordination platform designed to optimize patient routing and emergency handling workflows.
+
+**Focus Areas**
+`System Design · Real-time Coordination · Healthcare Tech`
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+
+`Python · FastAPI · PyTorch · TensorFlow · Scikit-learn`
+
+### AI/ML
+
+`HuggingFace · OpenCV · NLP · Deep Learning · Computer Vision`
+
+### Tools & Platforms
+
+`Streamlit · SQLAlchemy · Jupyter · Git · SQLite`
+
+---
+
+## 📌 Currently Exploring
+
+* LLM orchestration and evaluation systems
+* AI agent workflows and memory architectures
+* Backend system design for AI applications
+* Scalable deployment pipelines for ML systems
 
 ---
 
 ## 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhanikhaneja)
+[LinkedIn](https://linkedin.com/in/suhanikhaneja)
 
-> Always up for meaningful conversations about tech, AI, or ideas worth building.
+Always open to conversations around AI, engineering, research, and meaningful products worth building.
