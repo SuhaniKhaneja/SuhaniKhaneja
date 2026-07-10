@@ -39,19 +39,16 @@ Full-stack automated evaluation system for benchmarking LLM responses across mul
 
 ### 🔹 [DeepGuard-AI — Deepfake Detection](https://github.com/SuhaniKhaneja/DeepGuard-AI)
 
-Deep learning-based deepfake detection system benchmarking multiple architectures on 10,000+ labeled video frames using transfer learning.
+Developed a deep learning-based deepfake detection system that classifies manipulated facial images using transfer learning and provides real-time predictions through a Streamlit web application.
 
 **Highlights**
-
-* Compared Custom CNN, DenseNet121, and EfficientNetB0
-* Achieved ~93% accuracy using DenseNet121
-* Real-time prediction interface using Streamlit
-* Extensive preprocessing and frame extraction pipeline
+- Built an end-to-end pipeline for face extraction, preprocessing, model training, and inference
+- Evaluated multiple transfer learning models including EfficientNetB0 and DenseNet121
+- Achieved ~93% test accuracy with DenseNet121
+- Deployed an interactive Streamlit application for real-time deepfake detection
 
 **Tech Stack**
-`Python · TensorFlow · PyTorch · OpenCV · Streamlit`
-
----
+`Python · TensorFlow · OpenCV · Streamlit`
 
 ### 🔹 [LLM Chatbot with Memory](https://github.com/SuhaniKhaneja/LLM-Powered-Conversational-Chatbot-with-Memory)
 
