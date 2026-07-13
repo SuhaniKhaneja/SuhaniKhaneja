@@ -1,125 +1,18 @@
-# Hi, I'm Suhani Khaneja 👋
+# 💫 About Me:
+🚀 I'm currently working on<br>Building AI/ML projects with LLMs, FastAPI, and Python.<br><br>🤝 I'm looking to collaborate on<br>Open-source AI/ML, GenAI, and full-stack AI projects.<br><br>💡 I'm looking for help with<br>MLOps, RAG systems, LangGraph, and deploying ML models.<br><br>🌱 I'm currently learning<br>Machine Learning, Deep Learning, DSA, SQL, LangChain, and LLM applications.<br><br>💬 Ask me about<br>Python, Machine Learning, FastAPI, LLMs, AI projects, and GitHub.<br><br>⚡ Fun fact<br>I enjoy turning AI ideas into real-world projects and learning by building.<br><br>
 
-### CSE Student · AI/ML Engineer · Building intelligent systems with real-world impact
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suhanikhanejaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhani-khaneja ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@suhani khaneja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhanikhaneja78@gmail.com) 
 
-## 🙋‍♀️ About Me
-
-I'm a Computer Science Engineering student focused on building practical AI systems that solve real problems — beyond coursework and tutorials. I work across the full AI development pipeline: data preprocessing, model training, backend APIs, evaluation systems, and deployment.
-
-My current interests include:
-
-* LLM applications and evaluation systems
-* Conversational AI and memory architectures
-* Deep learning and computer vision
-* Backend systems and scalable AI infrastructure
-
-I enjoy understanding not just how systems work, but why they matter and who they help.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SuhaniKhaneja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SuhaniKhaneja&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SuhaniKhaneja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=SuhaniKhaneja&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Projects
-
-### 🔹 [LLM Evaluation Platform](https://github.com/SuhaniKhaneja/LLM-EVAL-PLATFORM)
-
-Full-stack automated evaluation system for benchmarking LLM responses across multiple quality metrics including ROUGE-1 similarity, toxicity, response length, and composite scoring.
-
-**Highlights**
-
-* FastAPI backend with asynchronous request handling
-* Streamlit dashboard for visualization and benchmarking
-* SQLite persistence using SQLAlchemy ORM
-* Multi-model comparative evaluation pipeline
-
-**Tech Stack**
-`Python · FastAPI · PyTorch · Streamlit · SQLAlchemy · ROUGE · Detoxify`
-
----
-
-### 🔹 [DeepGuard-AI — Deepfake Detection](https://github.com/SuhaniKhaneja/DeepGuard-AI)
-
-Developed a deep learning-based deepfake detection system that classifies manipulated facial images using transfer learning and provides real-time predictions through a Streamlit web application.
-
-**Highlights**
-- Built an end-to-end pipeline for face extraction, preprocessing, model training, and inference
-- Evaluated multiple transfer learning models including EfficientNetB0 and DenseNet121
-- Achieved ~93% test accuracy with DenseNet121
-- Deployed an interactive Streamlit application for real-time deepfake detection
-
-**Tech Stack**
-`Python · TensorFlow · OpenCV · Streamlit`
-
-### 🔹 [LLM Chatbot with Memory](https://github.com/SuhaniKhaneja/LLM-Powered-Conversational-Chatbot-with-Memory)
-
-Context-aware conversational chatbot supporting multi-turn interactions with session-based memory.
-
-**Highlights**
-
-* Stateful conversation management
-* FastAPI REST API integration
-* Transformer-based conversational pipeline
-* Memory-aware response generation
-
-**Tech Stack**
-`BlenderBot · HuggingFace · PyTorch · FastAPI`
-
----
-
-### 🔹 Speech Emotion Recognition
-
-Deep learning model for classifying human emotions from speech using MFCC feature extraction on 2,800+ audio samples.
-
-**Tech Stack**
-`PyTorch · Librosa · NumPy · RAVDESS Dataset`
-
----
-
-### 🔹 Fake News Detector
-
-NLP-based classification system for detecting fake versus genuine news articles using machine learning techniques.
-
-**Tech Stack**
-`Python · Scikit-learn · NLP`
-
----
-
-### 🔹 MediBridge
-
-Conceptual real-time emergency response and hospital coordination platform designed to optimize patient routing and emergency handling workflows.
-
-**Focus Areas**
-`System Design · Real-time Coordination · Healthcare Tech`
-
----
-
-## 🛠 Tech Stack
-
-### Languages & Frameworks
-
-`Python · FastAPI · PyTorch · TensorFlow · Scikit-learn`
-
-### AI/ML
-
-`HuggingFace · OpenCV · NLP · Deep Learning · Computer Vision`
-
-### Tools & Platforms
-
-`Streamlit · SQLAlchemy · Jupyter · Git · SQLite`
-
----
-
-## 📌 Currently Exploring
-
-* LLM orchestration and evaluation systems
-* AI agent workflows and memory architectures
-* Backend system design for AI applications
-* Scalable deployment pipelines for ML systems
-
----
-
-## 🤝 Connect
-
-[LinkedIn](https://linkedin.com/in/suhanikhaneja)
-
-Always open to conversations around AI, engineering, research, and meaningful products worth building.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
