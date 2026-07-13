@@ -1,5 +1,6 @@
 # 💫 About Me:
 🚀 I'm currently working on<br>Building AI/ML projects with LLMs, FastAPI, and Python.<br><br>🤝 I'm looking to collaborate on<br>Open-source AI/ML, GenAI, and full-stack AI projects.<br><br>💡 I'm looking for help with<br>MLOps, RAG systems, LangGraph, and deploying ML models.<br><br>🌱 I'm currently learning<br>Machine Learning, Deep Learning, DSA, SQL, LangChain, and LLM applications.<br><br>💬 Ask me about<br>Python, Machine Learning, FastAPI, LLMs, AI projects, and GitHub.<br><br>⚡ Fun fact<br>I enjoy turning AI ideas into real-world projects and learning by building.<br><br>
+🚀 Building practical AI that solves real-world problems. My work includes image classification with explainable AI, LLM evaluation platforms, AI workflow automation, and data engineering pipelines. Passionate about Machine Learning, NLP, Generative AI, and deploying production-grade AI applications.
 
 
 ## 🌐 Socials:
