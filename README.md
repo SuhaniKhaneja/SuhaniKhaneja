@@ -1,6 +1,26 @@
-# 💫 About Me:
-🚀 I'm currently working on<br>Building AI/ML projects with LLMs, FastAPI, and Python.<br><br>🤝 I'm looking to collaborate on<br>Open-source AI/ML, GenAI, and full-stack AI projects.<br><br>💡 I'm looking for help with<br>MLOps, RAG systems, LangGraph, and deploying ML models.<br><br>🌱 I'm currently learning<br>Machine Learning, Deep Learning, DSA, SQL, LangChain, and LLM applications.<br><br>💬 Ask me about<br>Python, Machine Learning, FastAPI, LLMs, AI projects, and GitHub.<br><br>⚡ Fun fact<br>I enjoy turning AI ideas into real-world projects and learning by building.<br><br>
-My work includes image classification with explainable AI, LLM evaluation platforms, AI workflow automation, and data engineering pipelines. Passionate about Machine Learning, NLP, Generative AI, and deploying production-grade AI applications.
+🚀 **I'm currently working on**  
+Building AI-powered applications, agentic workflows, RAG systems, and machine learning pipelines using Python, FastAPI, LangGraph, and modern AI tools.
+
+🤝 **I'm looking to collaborate on**  
+Open-source AI/ML projects, Generative AI applications, backend systems, and intelligent automation.
+
+💡 **I'm looking to explore**  
+MLOps, scalable RAG architectures, AI agent evaluation, model deployment, and production-grade ML systems.
+
+🌱 **I'm currently learning**  
+Machine Learning, Deep Learning, DSA, SQL, LLM evaluation, and AI system design.
+
+💬 **Ask me about**  
+Python, FastAPI, LLM applications, RAG pipelines, LangGraph, Machine Learning, and building end-to-end AI projects.
+
+⚡ **Fun fact**  
+I enjoy turning ideas into working systems, debugging the details, and learning by building.
+
+### 🛠️ What I've been building
+
+My projects span agentic AI systems, LLM evaluation platforms, computer vision, and predictive machine learning. I'm particularly interested in building reliable AI applications that combine intelligent workflows, backend engineering, evaluation, and practical deployment.
+
+**Areas of interest:** Machine Learning · Generative AI · Agentic AI · NLP · Computer Vision · Backend Engineering · MLOps
 
 
 ## 🌐 Socials:
